@@ -1,0 +1,62 @@
+[
+  {
+    "assignment_name": "cprogramminglab",
+    "start_at": "2022-01-17",
+    "due_at": "2022-01-18",
+    "max_score": "100"
+  },
+  {
+    "assignment_name": "datalab",
+    "start_at": "2022-01-18",
+    "due_at": "2022-01-27",
+    "max_score": "47"
+  },
+  {
+    "assignment_name": "bomblab",
+    "start_at": "2022-01-27",
+    "due_at": "2022-02-08",
+    "max_score": "70"
+  },
+  {
+    "assignment_name": "attacklab",
+    "start_at": "2022-02-08",
+    "due_at": "2022-02-17",
+    "max_score": "100"
+  },
+  {
+    "assignment_name": "cachelab",
+    "start_at": "2022-02-17",
+    "due_at": "2022-03-03",
+    "max_score": "104"
+  },
+  {
+    "assignment_name": "malloclabcheckpoint",
+    "start_at": "2022-03-15",
+    "due_at": "2022-03-22",
+    "max_score": "110"
+  },
+  {
+    "assignment_name": "malloclab",
+    "start_at": "2022-03-22",
+    "due_at": "2022-03-29",
+    "max_score": "100"
+  },
+  {
+    "assignment_name": "tshlab",
+    "start_at": "2022-03-29",
+    "due_at": "2022-04-14",
+    "max_score": "99"
+  },
+  {
+    "assignment_name": "proxylabcheckpoint",
+    "start_at": "2022-04-14",
+    "due_at": "2022-04-21",
+    "max_score": "37"
+  },
+  {
+    "assignment_name": "proxylab",
+    "start_at": "2022-04-21",
+    "due_at": "2022-04-29",
+    "max_score": "101"
+  }
+]

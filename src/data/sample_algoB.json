@@ -1,0 +1,17 @@
+{
+  "1": {
+    "rationale": {
+      "stats": {
+        "mean": []
+      },
+      "grades": [],
+      "struggling": [],
+      "maybe": [],
+      "within_avg": false,
+      "recent": true,
+      "upward_trend": false,
+      "malloc_upward": false
+    },
+    "isStruggling": -1
+  }
+}

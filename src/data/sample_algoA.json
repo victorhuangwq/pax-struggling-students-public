@@ -1,0 +1,14 @@
+{
+    "1": { "isStruggling": 1,
+          "rationale": {
+            "data" : 1,
+            "data2" : 2
+          }
+        },
+    "2": { "isStruggling": 1,
+            "rationale": {
+              "data" : 1,
+              "data2" : 2
+            }
+        }
+}

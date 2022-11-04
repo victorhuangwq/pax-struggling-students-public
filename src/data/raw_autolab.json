@@ -1,0 +1,22 @@
+[
+  {
+    "IDNumber": "1",
+    "Lecture": "213",
+    "Section": "1",
+    "Year": "0",
+    "grace_days_used": "3",
+    "penalty_late_days": "0",
+    "cprogramminglab": "67",
+    "datalab": "70",
+    "bomblab": "70",
+    "attacklab": "80",
+    "cachelab": "100",
+    "malloclabcheckpoint": "100",
+    "malloclab": "100",
+    "tshlab": "100",
+    "proxylabcheckpoint": "100",
+    "proxylab": "70",
+    "Lab Average": "100",
+    "Course Average": "0"
+  }
+]
